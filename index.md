@@ -294,7 +294,7 @@ t(11;14)(p13;q11)	| TCR-RBTN2 fuusion |
 ***=right
 
 ![GBM](http://upload.wikimedia.org/wikipedia/commons/f/ff/Glioblastoma_%281%29.jpg)
-<footer>[Pilt: wikimedia](http://en.wikipedia.org/wiki/Glioblastoma_multiforme)</footer>
+</footer class="source">[Pilt: wikimedia](http://en.wikipedia.org/wiki/Glioblastoma_multiforme)</footer>
 
 
 ---
@@ -307,7 +307,7 @@ Naha melanotsüüdid pärinevad neuraalharjast
 
 <img src="http://web.biologie.uni-bielefeld.de/cellbiology/images/scientific-schemes/neural%20crest.jpg" style="width:400px">
 
-<footer>[Pilt:web.biologie.uni-bielefeld.de](http://web.biologie.uni-bielefeld.de/cellbiology/index.php/research/neural-crest-derived-stem-cells)</footer>
+<footer class="source">[Pilt:web.biologie.uni-bielefeld.de](http://web.biologie.uni-bielefeld.de/cellbiology/index.php/research/neural-crest-derived-stem-cells)</footer>
 
 ---&twocol
 ## Melanoom
