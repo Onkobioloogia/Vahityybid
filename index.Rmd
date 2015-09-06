@@ -322,7 +322,7 @@ Naha melanotsüüdid pärinevad neuraalharjast
 
 ***=right
 
-![melanoom](http://www.aocd.org/resource/resmgr/ddb_high/melanoma_2_high.jpg)
+<img src="http://www.aocd.org/resource/resmgr/ddb_high/melanoma_2_high.jpg" style="width:300px">
 
 <footer class="source">[Pilt:www.aocd.org](http://www.aocd.org/?page=Melanoma)</footer>
 
@@ -330,9 +330,9 @@ Naha melanotsüüdid pärinevad neuraalharjast
 ---
 ## SCLC
 
- Small-cell lung cancer (SCLC) is an exceptionally aggressive disease with poor prognosis
+Small-cell lung cancer (SCLC) is an exceptionally aggressive disease with poor prognosis
 - 10–15% of the new lung cancer cases year
--  high proliferative index and early metastasis
+- high proliferative index and early metastasis
 
 ---
 ## SCLC
