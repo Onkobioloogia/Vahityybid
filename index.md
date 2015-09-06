@@ -294,7 +294,7 @@ t(11;14)(p13;q11)	| TCR-RBTN2 fuusion |
 ***=right
 
 ![GBM](http://upload.wikimedia.org/wikipedia/commons/f/ff/Glioblastoma_%281%29.jpg)
-<small><small>[Pilt: wikimedia](http://en.wikipedia.org/wiki/Glioblastoma_multiforme)</small></small>
+<footer>[Pilt: wikimedia](http://en.wikipedia.org/wiki/Glioblastoma_multiforme)</footer>
 
 
 ---
@@ -307,7 +307,7 @@ Naha melanotsüüdid pärinevad neuraalharjast
 
 ![neuraalhari](http://web.biologie.uni-bielefeld.de/cellbiology/images/scientific-schemes/neural%20crest.jpg)
 
-<small><small>[Pilt:web.biologie.uni-bielefeld.de](http://web.biologie.uni-bielefeld.de/cellbiology/index.php/research/neural-crest-derived-stem-cells)</small></small>
+<footer>[Pilt:web.biologie.uni-bielefeld.de](http://web.biologie.uni-bielefeld.de/cellbiology/index.php/research/neural-crest-derived-stem-cells)</footer>
 
 ---&twocol
 ## Melanoom
@@ -323,7 +323,8 @@ Naha melanotsüüdid pärinevad neuraalharjast
 ***=right
 
 ![melanoom](http://www.aocd.org/resource/resmgr/ddb_high/melanoma_2_high.jpg)
-<small><small>[Pilt:www.aocd.org](http://www.aocd.org/?page=Melanoma)</small></small>
+
+<footer class="source">[Pilt:www.aocd.org](http://www.aocd.org/?page=Melanoma)</footer>
 
 
 ---
@@ -349,6 +350,9 @@ Naha melanotsüüdid pärinevad neuraalharjast
  - NB! EMT ei ole kartsinoomis histoloogiliselt jälgitav
  - tegemist võib olla transientse seisundiga
 
+<img src="http://www.sabiosciences.com/images/Fig3_Fibrosis.gif" style="width:300px">
+
+<footer class="source">Pilt: http://www.sabiosciences.com/</footer>
 
 ---
 ## Reeglina säilitavad vähid oma päritolu-koe tunnused
