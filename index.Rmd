@@ -267,7 +267,7 @@ Tsütogeneetiline translokatsioon | Molekulaar-geneetiline mutatsioon |  %
 --------------------------|-------------------------------|-----------
 krüptiline t(12;21)|	TEL-AML1 fuusion	|25.4%
 t(1;19)(q23;p13)|	E2A-PBX fuusion	| 4.8%
-t(9;22)(q34;q11)|	BCR-ABL fuusion	|1.6%
+t(9;22)(q34;q11)|	BCR-ABL fuusion (90% CML juhtudest)	|1.6%
 t(4;11)(q21;q23)|	MLL-AF4 fuusion|	1.6%
 t(8;14)(q24;q32) | IGH-MYC fuusion |
 t(11;14)(p13;q11)	| TCR-RBTN2 fuusion | 
