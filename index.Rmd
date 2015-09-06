@@ -298,7 +298,6 @@ t(11;14)(p13;q11)	| TCR-RBTN2 fuusion |
 
 <footer class="source">Pilt:[wikimedia](http://en.wikipedia.org/wiki/Glioblastoma_multiforme)</footer>
 
-
 ---
 ## Vähid mis ei klassifitseeru epi-mese-neuro järgi
 
@@ -317,7 +316,7 @@ Naha melanotsüüdid pärinevad neuraalharjast
 ***=left
 - Eestis 12pt/100tuh
 - kirurgiline ravi lähtub paksusest (>1 mm), 
-- lm(elulemus~paksus, melanoom)
+- elulemus on otseselt seotud paksusega
 - siirded lümfisõlmedes:
     - >4 mm 35%
     - <1 mm 0.1%
@@ -327,7 +326,6 @@ Naha melanotsüüdid pärinevad neuraalharjast
 <img src="http://www.aocd.org/resource/resmgr/ddb_high/melanoma_2_high.jpg" style="width:400px">
 
 <footer class="source">[Pilt:www.aocd.org](http://www.aocd.org/?page=Melanoma)</footer>
-
 
 ---
 ## SCLC
