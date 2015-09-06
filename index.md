@@ -357,7 +357,7 @@ Olulise ühendva bioloogilise printsiibina säilitavad vähirakud alati mõne di
 
 ![kermets](http://www.breastpathology.info/Images/LVi%20&%20nodes/micromet-pan-ck.jpg)
 
-<footer class="source">Pilt: mikrometastaas. www.breastpathology.info</footer>
+<footer class="source">Pilt: tsütokeratiin-positiivne mikrometastaas. www.breastpathology.info</footer>
 
 ---
 ## Anaplastilised kasvajad
