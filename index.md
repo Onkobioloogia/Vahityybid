@@ -293,8 +293,9 @@ t(11;14)(p13;q11)	| TCR-RBTN2 fuusion |
 
 ***=right
 
-![GBM](http://upload.wikimedia.org/wikipedia/commons/f/ff/Glioblastoma_%281%29.jpg)
-</footer class="source">[Pilt: wikimedia](http://en.wikipedia.org/wiki/Glioblastoma_multiforme)</footer>
+<img src="http://upload.wikimedia.org/wikipedia/commons/f/ff/Glioblastoma_%281%29.jpg" style="width:400px">
+
+</footer class="source">Pilt: [wikimedia](http://en.wikipedia.org/wiki/Glioblastoma_multiforme)</footer>
 
 
 ---
