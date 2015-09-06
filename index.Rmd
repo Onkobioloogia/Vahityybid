@@ -367,6 +367,21 @@ Olulise ühendva bioloogilise printsiibina säilitavad vähirakud alati mõne di
 ![anaplaasia](http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Serous_carcinoma_2a_-_cytology.jpg/300px-Serous_carcinoma_2a_-_cytology.jpg)
 
 ---&twocol
+## Molekulaarne klassifikatsioon
+
+***=left
+
+- osad kasvajad koespetsiifilised, teised mitte:
+- kopsu lamerakk, pea-kaela ja osa põiekasvajaid moodustavad ühe alatüübi
+- põievähid lahknevad eri alatüüpidesse.
+
+
+***=right
+![MolClassification](http://www.cell.com/cms/attachment/2035837326/2051298972/fx1.jpg)
+
+<footer class="source">[Multiplatform Analysis of 12 Cancer Types Reveals Molecular Classification within and across Tissues of Origin](http://www.sciencedirect.com/science/article/pii/S0092867414008769)</footer>
+
+---&twocol
 ## Vähid arenevad progresseeruvalt
 
 ***=left
