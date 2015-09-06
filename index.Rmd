@@ -59,12 +59,12 @@ $(function() {
 
 
 ---&twocol
-
+## Egiptus, 16-17. dünastia
 
 ***=left
 
-- Vanim teadaolev kirjeldus vähist pärineb 3000 aasta tagant Egiptusest. 
-- Papüürus kirjeldab 8 rinnavähi juhtu mida raviti põletusega. 
+- Vanim teadaolev kirjeldus vähist pärineb 1500 BC Egiptusest. 
+- Papüürus kirjeldab muuseas ka 8 rinnavähi juhtu mida raviti põletusega. 
 - Kirjutises konstanteeritakse et see haigus on ravimatu.
 
 ***=right
