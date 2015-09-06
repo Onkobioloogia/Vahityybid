@@ -305,7 +305,7 @@ t(11;14)(p13;q11)	| TCR-RBTN2 fuusion |
 
 Naha melanotsüüdid pärinevad neuraalharjast
 
-![neuraalhari](http://web.biologie.uni-bielefeld.de/cellbiology/images/scientific-schemes/neural%20crest.jpg)
+<img src="http://web.biologie.uni-bielefeld.de/cellbiology/images/scientific-schemes/neural%20crest.jpg" style="width:400px">
 
 <footer>[Pilt:web.biologie.uni-bielefeld.de](http://web.biologie.uni-bielefeld.de/cellbiology/index.php/research/neural-crest-derived-stem-cells)</footer>
 
@@ -322,7 +322,7 @@ Naha melanotsüüdid pärinevad neuraalharjast
 
 ***=right
 
-<img src="http://www.aocd.org/resource/resmgr/ddb_high/melanoma_2_high.jpg" style="width:300px">
+<img src="http://www.aocd.org/resource/resmgr/ddb_high/melanoma_2_high.jpg" style="width:400px">
 
 <footer class="source">[Pilt:www.aocd.org](http://www.aocd.org/?page=Melanoma)</footer>
 
