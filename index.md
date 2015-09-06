@@ -82,7 +82,7 @@ $(function() {
 
 <img src="http://vignette3.wikia.nocookie.net/avp/images/4/46/ALIEN_chestburster1280.jpg/revision/latest?cb=20140123001323" style="width:420px">
 
-<footer class="source">Pilt: Wikia
+<footer class="source">Pilt: Wikia/Alien.
 </footer>
 
 ---&twocol
@@ -97,8 +97,10 @@ Seoses mikroskoopia arenguga 19. saj. saadi aru,
 
 ***=right
 
-![mcf7](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36)
+![microscopist](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36)
 
+<footer class="source">Pilt: internet.
+</footer>
 
 --- .segue .dark .nobackground
 
@@ -115,7 +117,7 @@ Metastaasid ehk vähi siirded vastutavad lõviosa kasvajatest tingitud surmade e
 
 - TNM-klassifikatsioon
 
-<img src="http://3.bp.blogspot.com/_ZWqgYBROGHw/TSGZUB-5SXI/AAAAAAAACGw/sqHnGZR0jJo/s1600/eos.bmp" style="width:420px">
+<img src="http://3.bp.blogspot.com/_ZWqgYBROGHw/TSGZUB-5SXI/AAAAAAAACGw/sqHnGZR0jJo/s1600/eos.bmp" style="width:300px">
 
 <footer class="source">Pilt: doctorsgates.blogspot.com
 </footer>
