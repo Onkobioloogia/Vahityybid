@@ -385,12 +385,15 @@ Olulise ühendva bioloogilise printsiibina säilitavad vähirakud alati mõne di
 ## Vähid arenevad progresseeruvalt
 
 ***=left
- Vähi staadiume iseloomustab järk-järguline progresseerumine healoomulisest kasvajast kuni metastaasideni
+
+Vähi staadiume iseloomustab järk-järguline progresseerumine healoomulisest kasvajast kuni metastaasideni
 
 ***=right
 
 ![progressioon](http://www.hopkinscoloncancercenter.org/Upload/200812051423_11416_000.jpg)
-<small><small>[Pilt:hopkinscoloncancercenter.org](http://www.hopkinscoloncancercenter.org/CMS/CMS_Page.aspx?CurrentUDV=59&CMS_Page_ID=0B34E9BE-5DE6-4CB4-B387-4158CC924084)</small></small>
+
+
+<footer class="source">[Pilt:hopkinscoloncancercenter.org](http://www.hopkinscoloncancercenter.org/CMS/CMS_Page.aspx?CurrentUDV=59&CMS_Page_ID=0B34E9BE-5DE6-4CB4-B387-4158CC924084)</footer>
 
 
 ---
