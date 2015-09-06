@@ -400,8 +400,7 @@ Olulise ühendva bioloogilise printsiibina säilitavad vähirakud alati mõne di
 
 Rohkem-vähem defineeritud "peatused" kasvaja arengus:
 
-Normaalne kude $latex \rightarrow$ hüper-/metaplastiline $latex \rightarrow$ 
-düsplaasia $latex \rightarrow$ lokaalselt invasiivne $latex \rightarrow$ metastaasid
+Normaalne kude > hüper-/metaplastiline > düsplaasia > lokaalselt invasiivne > metastaasid
 
 ---
 ## Healoomulised kasvajad
