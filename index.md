@@ -59,7 +59,7 @@ $(function() {
 
 
 ---&twocol
-## Egiptus, 16-17 dünastia
+## Egiptus, 16-17. dünastia
 
 ***=left
 
@@ -80,7 +80,7 @@ $(function() {
 - "kehavedelike tasakaalu häire teooria" (must-, kollane sapp, veri ja flegma) 
 - vähke ajalooliselt käsitletud ka kui võõrkeha, mis on ennast haige kehas sisse seadnud.
 
-<img src="http://vignette3.wikia.nocookie.net/avp/images/4/46/ALIEN_chestburster1280.jpg/revision/latest?cb=20140123001323" style="width:420px">
+<img src="http://vignette3.wikia.nocookie.net/avp/images/4/46/ALIEN_chestburster1280.jpg/revision/latest?cb=20140123001323" style="width:300px">
 
 <footer class="source">Pilt: Wikia/Alien.
 </footer>
