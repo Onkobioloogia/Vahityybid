@@ -53,6 +53,17 @@ $(function() {
 });
 </script>
 
+---.segue .dark .nobackground
+
+## Recap
+
+---
+![taffstuff](NYT.png)
+
+
+<footer class="source">Pilt: New York Times.
+</footer>
+
 --- .segue .dark .nobackground
 
 ## Ajaloost
