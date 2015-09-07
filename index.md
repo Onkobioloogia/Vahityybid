@@ -104,7 +104,11 @@ $(function() {
 ---&twocol
 ## Vähki põhjustavad kartsinogeenid
 
+***=left
+
 - 1775. a. identifitseeris kirurg sir Percivall Pott korstnapühkijatel nõe ja munandikasvajate vahelise seose - keskkonnas leiduvad kartsinogeenid võivad põhjustada vähki.
+
+***=right
 
 <img src="http://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2015/06/24/chimney-sweeps.JPG" style="width:400px">
 
