@@ -89,7 +89,7 @@ $(function() {
 ## Kasvajad on koelise struktuuriga
 
 ***=left
-- Robert Hooke avastas mikroskoopi kasutades, et taimekude koosneb rakkudest. 
+- 1655. avastas Robert Hooke mikroskoopi kasutades, et taimekude koosneb rakkudest. 
 - Seoses mikroskoopia arenguga 19. saj. saadi aru, 
     - kasvajad koosnevad rakkudest 
     - pärinevad normaalsetest kudedest
