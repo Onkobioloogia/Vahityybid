@@ -77,12 +77,12 @@ $(function() {
 ---
 ## Kasvajad kui tulnukad
 
-- "kehavedelike tasakaalu häire teooria" (must-, kollane sapp, veri ja flegma) 
+- Hippokrates: vähi "kehavedelike tasakaalu häire teooria" (must-, kollane sapp, veri ja flegma) 
 - vähke ajalooliselt käsitletud ka kui võõrkeha, mis on ennast haige kehas sisse seadnud.
 
-<img src="http://vignette3.wikia.nocookie.net/avp/images/4/46/ALIEN_chestburster1280.jpg/revision/latest?cb=20140123001323" style="width:300px">
+<img src="http://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2015/06/24/tumor-removed.jpg" style="width:300px">
 
-<footer class="source">Pilt: Wikia/Alien.
+<footer class="source">Pilt: Vähi kirurgiline eemaldamine, 1689. Wikimedia.
 </footer>
 
 ---&twocol
