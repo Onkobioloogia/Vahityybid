@@ -89,17 +89,26 @@ $(function() {
 ## Kasvajad on koelise struktuuriga
 
 ***=left
-
-Seoses mikroskoopia arenguga 19. saj. saadi aru, 
-- kasvajad koosnevad rakkudest 
-- pärinevad normaalsetest kudedest
-- 1775. a. identifitseeris kirurg sir Percivall Pott korstnapühkijatel nõe ja munandikasvajate vahelise seose -- keskkonnas leiduvad kartsinogeenid võivad põhjustada vähki.
+- Robert Hooke avastas mikroskoopi kasutades, et taimekude koosneb rakkudest. 
+- Seoses mikroskoopia arenguga 19. saj. saadi aru, 
+    - kasvajad koosnevad rakkudest 
+    - pärinevad normaalsetest kudedest
 
 ***=right
 
 ![microscopist](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36)
 
 <footer class="source">Pilt: internet.
+</footer>
+
+---&twocol
+## Vähki põhjustavad kartsinogeenid
+
+- 1775. a. identifitseeris kirurg sir Percivall Pott korstnapühkijatel nõe ja munandikasvajate vahelise seose - keskkonnas leiduvad kartsinogeenid võivad põhjustada vähki.
+
+<img src="http://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2015/06/24/chimney-sweeps.JPG" style="width:400px">
+
+<footer class="source">Pilt: Korstnapühkijad, hilised 1800-ndad. Wikimedia.
 </footer>
 
 --- .segue .dark .nobackground
